@@ -21,4 +21,23 @@ if __name__ == "__main__":
     print(f"  Monto de la compra: ${compra2:.2f}")
     print(f"  Descuento aplicado ({porcentaje}%): ${descuento2:.2f}")
     print(f"  Total a pagar: ${total2:.2f}")
+"""
+Ejemplo de salida en consola:
+
+Ingrese el monto de la primera compra: $100
+
+Compra 1:
+Descuento aplicado: $10.00
+Monto final a pagar: $90.00
+
+Ingrese el monto de la segunda compra: $250
+Ingrese el porcentaje de descuento: 20
+
+Compra 2:
+Descuento aplicado: $50.00
+Monto final a pagar: $200.00
+"""
+
+
+
 
